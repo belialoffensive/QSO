@@ -9,7 +9,6 @@ File: Layout CSS
 */
 
 @import url("fontawesome-4.3.0.min.css");
-@import url("fontawesome.css");
 @import url("framework.css");
 
 /* Rows
@@ -214,7 +213,10 @@ td{border-width:0 1px;}
 
 .faicon-dribble:hover{background-color:#EA4C89;}
 .faicon-facebook:hover{background-color:#3B5998;}
-.faicon-google-plus:hover{background-color:#DB4A39;}
+.faicon-instagram:hover{background-color:#db39db;}
+.faicon-whatsapp:hover{background-color:#3b9840;}
+.faicon-send:hover{background-color:#0045db;}
+.faicon-google-plus:hover{background-color:#ff2bff;}
 .faicon-linkedin:hover{background-color:#0E76A8;}
 .faicon-pinterest:hover{background-color:#C8232C;}
 .faicon-rss:hover{background-color:#EE802F;}
@@ -231,7 +233,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#888888; background-color:#2E2E2E;}
-a{color:#EE6D00;}
+a{color:#008d00;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 .overlay{color:inherit; background-color:rgba(0,0,0,.65);}
@@ -244,7 +246,7 @@ label span{color:#FF0000; background-color:inherit;}
 .row2{color:#FFFFFF; background-color:#161616;}
 .row3{color:#888888; background-color:#FFFFFF;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
-.row4{color:#FFFFFF; background-color:#EE6D00;}
+.row4{color:#FFFFFF; background-color:#008d00;}
 .row4 a{color:#9D4700;}/* Darker Orange */
 .row5{color:#888888; background-color:#161616;}
 .row6, .row6 a{color:#888888; background-color:#2F2F2F;}
@@ -259,7 +261,7 @@ label span{color:#FF0000; background-color:inherit;}
 #pageintro .services .heading{color:#FFFFFF;}
 #pageintro .services p{color:#888888;}
 #pageintro .services a i{color:#CCCCCC; border-color:#333333;}
-#pageintro .services li:hover a i{color:#FFFFFF; background-color:#EE6D00; border-color:#EE6D00;}
+#pageintro .services li:hover a i{color:#FFFFFF; background-color:#008d00; border-color:#008d00;}
 #pageintro .services li:hover .overlay{background-color:rgba(0,0,0,1);}
 
 
@@ -267,14 +269,14 @@ label span{color:#FF0000; background-color:inherit;}
 #info .services article{border-color:#FFFFFF;}
 #info .services li:hover{color:#888888; background-color:#FFFFFF;}
 #info .services li:hover article{border-color:#9D4700;}
-#info .services li:hover a{color:#EE6D00;}
-#info .services li:hover a i{color:#FFFFFF; background-color:#EE6D00;}
+#info .services li:hover a{color:#008d00;}
+#info .services li:hover a i{color:#FFFFFF; background-color:#008d00;}
 
 
 /* Footer */
 #footer .title{color:#FFFFFF; border-color:#2F2F2F;}
 #footer input{color:#FFFFFF; background-color:#2F2F2F;}
-#footer button{color:#FFFFFF; background-color:#EE6D00;}
+#footer button{color:#FFFFFF; background-color:#008d00;}
 
 
 /* Navigation */
@@ -282,17 +284,17 @@ label span{color:#FF0000; background-color:inherit;}
 #mainav .active a{border-color:#EE6D00;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#EE6D00; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#EE6D00;}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#008d00;}
 #mainav form select{border-color:#D7D7D7;}
 
 #breadcrumb li, #breadcrumb a{color:#888888; background-color:inherit;}
 #breadcrumb li:last-child a{color:#FFFFFF;}
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
-.container .sidebar nav a:hover{color:#EE6D00;}
+.container .sidebar nav a:hover{color:#008d00;}
 
 .pagination a, .pagination strong{border-color:#D7D7D7;}
-.pagination .current *{color:#FFFFFF; background-color:#EE6D00;}
+.pagination .current *{color:#FFFFFF; background-color:#008d00;}
 
 #backtotop{color:#FFFFFF; background-color:#EE6D00;}
 

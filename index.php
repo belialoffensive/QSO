@@ -8,7 +8,7 @@
     <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
-<body id="top">
+<body id="top" style="background-image:url('images/demo/backgrounds/background.jpg');" bgproperties="fixed">
     <?php include('./partials/header.php'); ?>
     <div class="wrapper row3">
         <main class="container clear">
@@ -21,22 +21,24 @@
                         <ul align="center" class="nospace clear">
                             <li class="one_quarter first"><a href="demonews.php"><img
                                         src="../images/demo/gallery/5e5628e139feb.jpeg" alt=""></a>
-                                        <h1><a href = "demonews.php">название новости 1</a></h1>
-                                        <p>кратко о новости 1</p>
+                                <h1><a href="demonews.php">название новости 1</a></h1>
+                                <p>кратко о новости 1</p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/5e5628e139feb.jpeg" alt=""></a>
-                                        <h1><a href = "demonews.php">название новости 2</a></h1>
-                                        <p>кратко о новости 2</p>
-                                    </li>
-                            <li class="one_quarter"><a href="demonews.php"><img src="../images/demo/gallery/5e5628e139feb.jpeg"
-                                        alt=""></a>
-                                        <h1><a href = "demonews.php">название новости 3</a></h1>
-                                        <p>кратко о новости 3</p></li>
-                                        <li class="one_quarter"><a href="demonews.php"><img src="../images/demo/gallery/5e5628e139feb.jpeg"
-                                        alt=""></a>
-                                        <h1><a href = "demonews.php">название новости 4</a></h1>
-                                        <p>кратко о новости 4</p></li>
+                                <h1><a href="demonews.php">название новости 2</a></h1>
+                                <p>кратко о новости 2</p>
+                            </li>
+                            <li class="one_quarter"><a href="demonews.php"><img
+                                        src="../images/demo/gallery/5e5628e139feb.jpeg" alt=""></a>
+                                <h1><a href="demonews.php">название новости 3</a></h1>
+                                <p>кратко о новости 3</p>
+                            </li>
+                            <li class="one_quarter"><a href="demonews.php"><img
+                                        src="../images/demo/gallery/5e5628e139feb.jpeg" alt=""></a>
+                                <h1><a href="demonews.php">название новости 4</a></h1>
+                                <p>кратко о новости 4</p>
+                            </li>
                         </ul>
                     </figure>
                 </div>
@@ -45,7 +47,7 @@
             <div class="clear"></div>
         </main>
     </div>
-    
+
     <?php include('./partials/footer.php'); ?>
 
     <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

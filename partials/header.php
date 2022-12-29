@@ -9,9 +9,10 @@
         </div>
         <div class="fl_right">
             <ul class="faico clear">
-                <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook-square"></i></a></li>
                 <li><a class="faicon-instagram" href="#"><i class="fa fa-instagram"></i></a></li>
                 <li><a class="faicon-whatsapp" href="#"><i class="fa fa-whatsapp"></i></a></li>
+                <li><a class="faicon-send" href="#"><i class="fa fa-send"></i></a></li>
             </ul>
         </div>
     </div>
@@ -20,7 +21,6 @@
 <div class="wrapper row1">
     <header id="header" class="clear">
         <div id="logo" class="fl_left">
-            <h1><a href="index.php">Qazaqstan Sport Odagy</a></h1>
         </div>
         <nav id="mainav" class="fl_right">
             <ul class="clear">
@@ -38,11 +38,11 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/010.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/background.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
-                <h2 class="heading xxl uppercase btmspace-30">Qazaqstan Sport Odagy</h2>
+            <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a>
                 <p class="xl nospace capitalise">слоган</p>
             </div>
             <!-- <ul class="nospace group services">
