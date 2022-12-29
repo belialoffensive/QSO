@@ -20,8 +20,7 @@
 
 <div class="wrapper row1">
     <header id="header" class="clear">
-        <div id="logo" class="fl_left">
-        </div>
+        <div id="logo" class="fl_left"><img src="../images/demo/logo/minilogo.png" alt=""></div>
         <nav id="mainav" class="fl_right">
             <ul class="clear">
                 <li class="active"><a href="index.php">Главная</a></li>
@@ -40,7 +39,7 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');" class="responsive">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">

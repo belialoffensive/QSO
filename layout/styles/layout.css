@@ -251,6 +251,10 @@ label span{color:#FF0000; background-color:inherit;}
 .row5{color: #000;; background-color:#EE6D00;}
 .row6, .row6 a{color:#000; background-color:#2F2F2F;}
 
+.responsive {
+    width: 100%;
+    height: auto;
+}
 
 /* Top Bar */
 #topbar .faico a{color:inherit;}
