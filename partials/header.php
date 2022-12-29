@@ -20,7 +20,7 @@
 
 <div class="wrapper row1">
     <header id="header" class="clear">
-        <div id="logo" class="fl_left"><img src="../images/demo/logo/minilogo.png" alt=""></div>
+        <div id="logo" class="fl_left"></div>
         <nav id="mainav" class="fl_right">
             <ul class="clear">
                 <li class="active"><a href="index.php">Главная</a></li>
@@ -39,11 +39,11 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/fullback.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
-            <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a>
+            <a href="index.php"><img src="../images/demo/logo/logoqso.png" alt="" width="300"></a>
                 <p class="xl nospace capitalise">слоган</p>
             </div>
             <!-- <ul class="nospace group services">
