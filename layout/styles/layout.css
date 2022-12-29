@@ -233,7 +233,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#888888; background-color:#2e2e2e63;}
-a{color:#EE6D00;}
+a{color:#1616165e;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 .overlay{color:inherit; background-color:rgba(0,0,0,.65);}
@@ -248,7 +248,7 @@ label span{color:#FF0000; background-color:inherit;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
 .row4{color:#FFFFFF; background-color:#EE6D00;}
 .row4 a{color:#9D4700;}/* Darker Orange */
-.row5{color:#888888; background-color:#1616165e;}
+.row5{color:#888888; background-color:#EE6D00;}
 .row6, .row6 a{color:#888888; background-color:#2F2F2F;}
 
 
