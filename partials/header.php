@@ -44,7 +44,7 @@
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
-            <!-- <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a> -->
+            <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a>
                 <p class="xl nospace capitalise">слоган</p>
             </div>
             <!-- <ul class="nospace group services">
