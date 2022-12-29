@@ -332,7 +332,7 @@ table a, #comments a{background-color:inherit;}
 
 	#header #logo{text-align:center; margin-bottom:15px;}
 
-	#pageintro{padding:140px 0 50px;}
+	#pageintro{padding:0px 0 50px;}
 	.container{padding-bottom:50px;}
 	#info{padding-bottom:50px;}
 	#footer{padding-bottom:20px;}
