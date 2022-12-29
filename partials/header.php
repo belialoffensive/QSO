@@ -31,6 +31,7 @@
                     <li><a href="ouractivity.php">Наша деятельность</a></li>
                 </ul>
             </li> 
+            <li><a href="services.php">Услуги</a></li>
                 <li><a href="demonewslist.php">Новости</a></li>
                 <li><a href="contacts.php">Контакты</a></li>
             </ul>
@@ -38,11 +39,11 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/background.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
-            <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a>
+            <!-- <a href="index.php"><img src="../images/demo/logo/logo.png" alt=""></a> -->
                 <p class="xl nospace capitalise">слоган</p>
             </div>
             <!-- <ul class="nospace group services">
@@ -67,7 +68,7 @@
                         <footer><a href="transtech-ru.php">Читать далее &raquo;</a></footer>
                     </article>
                 </li>
-            </ul> -->
+            </ul>  -->
         </section>
     </div>
 </div>

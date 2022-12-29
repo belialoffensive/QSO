@@ -8,7 +8,7 @@
     <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
-<body id="top" style="background-image:url('images/demo/backgrounds/background.jpg');" bgproperties="fixed">
+<body id="top">
     <?php include('./partials/header.php'); ?>
     <div class="wrapper row3">
         <main class="container clear">
