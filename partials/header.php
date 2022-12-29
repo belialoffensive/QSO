@@ -39,7 +39,7 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');" class="responsive">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
