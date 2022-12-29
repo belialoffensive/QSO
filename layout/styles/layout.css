@@ -232,24 +232,24 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#888888; background-color:#2e2e2e63;}
-a{color:#1616165e;}
+body{color:#000; background-color:#2e2e2e63;}
+a{color:#000;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 .overlay{color:inherit; background-color:rgba(0,0,0,.65);}
 
 
 /* Rows */
-.row0, .row0 a{color:#888888; background-color:#FFFFFF;}
+.row0, .row0 a{color:#000; background-color:#FFFFFF;}
 .row0{border-color:#D7D7D7;}
-.row1, .row1 a{color:#888888; background-color:#FFFFFF;}
+.row1, .row1 a{color:#000; background-color:#FFFFFF;}
 .row2{color:#FFFFFF; background-color:#1616165e;}
-.row3{color:#888888; background-color:#FFFFFF;}
+.row3{color:#000; background-color:#FFFFFF;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
 .row4{color:#FFFFFF; background-color:#EE6D00;}
-.row4 a{color:#9D4700;}/* Darker Orange */
-.row5{color:#888888; background-color:#EE6D00;}
-.row6, .row6 a{color:#888888; background-color:#2F2F2F;}
+.row4 a{color:#000;}/* Darker Orange */
+.row5{color: #000;; background-color:#EE6D00;}
+.row6, .row6 a{color:#000; background-color:#2F2F2F;}
 
 
 /* Top Bar */
@@ -259,15 +259,15 @@ label span{color:#FF0000; background-color:inherit;}
 
 /* PageIntro */
 #pageintro .services .heading{color:#FFFFFF;}
-#pageintro .services p{color:#888888;}
-#pageintro .services a i{color:#CCCCCC; border-color:#888888;}
+#pageintro .services p{color:#000;}
+#pageintro .services a i{color:#CCCCCC; border-color:#000;}
 #pageintro .services li:hover a i{color:#FFFFFF; background-color:#EE6D00; border-color:#EE6D00;}
 #pageintro .services li:hover .overlay{background-color:rgba(0,0,0,1);}
 
 
 /* Info */
 #info .services article{border-color:#FFFFFF;}
-#info .services li:hover{color:#888888; background-color:#FFFFFF;}
+#info .services li:hover{color:#000; background-color:#FFFFFF;}
 #info .services li:hover article{border-color:#9D4700;}
 #info .services li:hover a{color:#EE6D00;}
 #info .services li:hover a i{color:#FFFFFF; background-color:#EE6D00;}
@@ -287,7 +287,7 @@ label span{color:#FF0000; background-color:inherit;}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#EE6D00;}
 #mainav form select{border-color:#D7D7D7;}
 
-#breadcrumb li, #breadcrumb a{color:#888888; background-color:inherit;}
+#breadcrumb li, #breadcrumb a{color:#000; background-color:inherit;}
 #breadcrumb li:last-child a{color:#FFFFFF;}
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
