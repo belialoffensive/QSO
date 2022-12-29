@@ -17,20 +17,20 @@
             </div>
             <ul class="nospace group services">
                 <li>
-                    <article class="overlay1"><i class="fa fa-running"></i>
+                    <article class="overlay1"><i class="fa fa-check-square"></i>
                         <h6 class="heading" align="center">Создание условий для роста количества крупных компаний
                             физкультурно-спортивной
                             индустрии в Казахстане;</h6>
                     </article>
                 </li>
                 <li>
-                    <article class="overlay1"><i class="fa fa-running"></i>
+                    <article class="overlay1"><i class="fa fa-check-square"></i>
                         <h6 class="heading" align="center">Разработка стандартов и требований к физкультурно-спортивной
                             индустрии;</h6>
                     </article>
                 </li>
                 <li>
-                    <article class="overlay1"><i class="fa fa-running"></i>
+                    <article class="overlay1"><i class="fa fa-check-square"></i>
                         <h6 class="heading" align="center">Создание механизма саморегулирования деятельности компаний,
                             занимающихся развитием и
                             улучшениием спортивной инфраструктуры в Казахстане, на основе соблюдения
@@ -38,7 +38,7 @@
                     </article>
                 </li>
                 <li>
-                    <article class="overlay1"><i class="fa fa-running"></i>
+                    <article class="overlay1"><i class="fa fa-check-square"></i>
                         <h6 class="heading" align="center">Укрепление связей с международными организациями,
                             казахстанскими общественными
                             объединениями, а также государственными органами.</h6>

@@ -14,7 +14,7 @@
         <main class="container clear">
             <div class="group">
                 <div>
-                    <h2 class="heading" align="center">Связаться с нами</h2>
+                    <h2 class="heading" align="center">Контакты</h2>
                     <ul class="nospace" align="center">
                     <li class="btmspace-10"><span class="fa fa-globe"></span> Республика Казахстан, г. Астана, Шоссе Коргалжын, 21/1</li>
                     <li class="btmspace-10"><span class="fa fa-phone"></span><a href="tel:+77789172546"> +7 778 917 25 46</a></li>

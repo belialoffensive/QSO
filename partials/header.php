@@ -9,7 +9,7 @@
         </div>
         <div class="fl_right">
             <ul class="faico clear">
-                <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook-square"></i></a></li>
+                <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a class="faicon-instagram" href="#"><i class="fa fa-instagram"></i></a></li>
                 <li><a class="faicon-whatsapp" href="#"><i class="fa fa-whatsapp"></i></a></li>
                 <li><a class="faicon-send" href="#"><i class="fa fa-send"></i></a></li>
@@ -25,10 +25,11 @@
         <nav id="mainav" class="fl_right">
             <ul class="clear">
                 <li class="active"><a href="index.php">Главная</a></li>
-                <li><a class="drop" href="about.php">О нас</a>
+                <li><a class="drop" href="#">О союзе</a>
                 <ul>
-                    <li><a href="ourteam.php">Наша команда</a></li>
+                    <li><a href="about.php">Кто мы такие</a></li>
                     <li><a href="ouractivity.php">Наша деятельность</a></li>
+                    <li><a href="ourteam.php">Наша команда</a></li>
                 </ul>
             </li> 
             <li><a href="services.php">Услуги</a></li>

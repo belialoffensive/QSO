@@ -232,7 +232,7 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#888888; background-color:#2E2E2E;}
+body{color:#888888; background-color:#2e2e2e63;}
 a{color:#EE6D00;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
@@ -243,12 +243,12 @@ label span{color:#FF0000; background-color:inherit;}
 .row0, .row0 a{color:#888888; background-color:#FFFFFF;}
 .row0{border-color:#D7D7D7;}
 .row1, .row1 a{color:#888888; background-color:#FFFFFF;}
-.row2{color:#FFFFFF; background-color:#161616;}
+.row2{color:#FFFFFF; background-color:#1616165e;}
 .row3{color:#888888; background-color:#FFFFFF;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
 .row4{color:#FFFFFF; background-color:#EE6D00;}
 .row4 a{color:#9D4700;}/* Darker Orange */
-.row5{color:#888888; background-color:#161616;}
+.row5{color:#888888; background-color:#1616165e;}
 .row6, .row6 a{color:#888888; background-color:#2F2F2F;}
 
 
@@ -260,7 +260,7 @@ label span{color:#FF0000; background-color:inherit;}
 /* PageIntro */
 #pageintro .services .heading{color:#FFFFFF;}
 #pageintro .services p{color:#888888;}
-#pageintro .services a i{color:#CCCCCC; border-color:#333333;}
+#pageintro .services a i{color:#CCCCCC; border-color:#888888;}
 #pageintro .services li:hover a i{color:#FFFFFF; background-color:#EE6D00; border-color:#EE6D00;}
 #pageintro .services li:hover .overlay{background-color:rgba(0,0,0,1);}
 

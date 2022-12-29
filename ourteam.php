@@ -10,7 +10,59 @@
 
 <body id="top">
     <?php include('./partials/header.php'); ?>
-    
+    <div class="wrapper row3">
+        <main class="container clear">
+            <div class="content">
+                <!-- ################################################################################################ -->
+                <div id="gallery">
+                    <figure>
+                        <header class="heading" align="center">НАША КОМАНДА
+                        </header>
+                        <br>
+                        <ul align="center" class="nospace clear">
+                            <li class="one_quarter first"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                        </ul>
+                        <br>
+                        <ul align="center" class="nospace clear">
+                            <li class="one_quarter first"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                            <li class="one_quarter"><a href="#"><img
+                                        src="../images/demo/avatar.png" alt=""></a>
+                                        <p>name</p>
+                            </li>
+                        </ul>
+                    </figure>
+                </div>
+            </div>
+            <!-- main body -->
+            <div class="clear"></div>
+        </main>
+    </div>
     <?php include('./partials/footer.php'); ?>
 
     <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

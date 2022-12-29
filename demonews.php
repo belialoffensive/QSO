@@ -13,7 +13,7 @@
     <div class="wrapper row3">
         <main class="container clear">
             <div class="group"><h1 class="heading" align="center">НАЗВАНИЕ НОВОСТИ</h21>
-                <div class="two_quater first"><img src="images/demo/gallery/5e5628e139feb.jpeg" alt=""></div>
+                <div class="two_quater first"><img src="images/demo/gallery/01.png" alt=""></div>
                 <div class="one_quater">
                     <p align="justify">текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст текст заполняет ответственный за новости</p>
                     <p align="right">2022/12/29</p>
