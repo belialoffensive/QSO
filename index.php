@@ -5,9 +5,6 @@
     <title>Qazaqstan Sport Odagy</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <!-- Google Fonts
-            ======================================================================== -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600|Roboto:100,100i,300,300i,400,400i,500,700&amp;subset=cyrillic" rel="stylesheet"> -->
     <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
@@ -46,22 +43,22 @@
                         <ul align="center" class="nospace clear">
                             <li class="one_quarter first"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h1><a href="demonews.php">название новости 1</a></h1>
+                                <h2><a href="demonews.php">название новости 1</a></h2>
                                 <p>кратко о новости 1</p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h1><a href="demonews.php">название новости 2</a></h1>
+                                <h2><a href="demonews.php">название новости 2</a></h2>
                                 <p>кратко о новости 2</p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h1><a href="demonews.php">название новости 3</a></h1>
+                                <h2><a href="demonews.php">название новости 3</a></h2>
                                 <p>кратко о новости 3</p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h1><a href="demonews.php">название новости 4</a></h1>
+                                <h2><a href="demonews.php">название новости 4</a></h2>
                                 <p>кратко о новости 4</p>
                             </li>
                         </ul>
