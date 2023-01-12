@@ -43,23 +43,19 @@
                         <ul align="center" class="nospace clear">
                             <li class="one_quarter first"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h2><a href="demonews.php">название новости 1</a></h2>
-                                <p>кратко о новости 1</p>
+                                <p><a href="demonews.php">название новости 1</a></p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h2><a href="demonews.php">название новости 2</a></h2>
-                                <p>кратко о новости 2</p>
+                                <p><a href="demonews.php">название новости 2</a></p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h2><a href="demonews.php">название новости 3</a></h2>
-                                <p>кратко о новости 3</p>
+                                <p><a href="demonews.php">название новости 3</a></p>
                             </li>
                             <li class="one_quarter"><a href="demonews.php"><img
                                         src="../images/demo/gallery/01.png" alt=""></a>
-                                <h2><a href="demonews.php">название новости 4</a></h2>
-                                <p>кратко о новости 4</p>
+                                <p><a href="demonews.php">название новости 4</a></p>
                             </li>
                         </ul>
                     </figure>
