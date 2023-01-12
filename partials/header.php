@@ -45,11 +45,9 @@
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
             <a href="index.php"><img src="../images/demo/logo/logoqso.png" alt="" width="300"></a>
-            <div class="center"> <button type="submit" class="form-btn"><a href="joinus.php">Вступить к нам<a></button> </div>
-
-                <!-- <p class="xl nospace capitalise">слоган</p> -->
+            <div class="center">
+                <button type="submit" class="submit"><a href="joinus.php">Вступить к нам<a></button>
             </div>
-            
-        </section>
-    </div>
+        </div>
+    </section>
 </div>

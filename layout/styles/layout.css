@@ -43,7 +43,7 @@ File: Layout CSS
 
 /* PageIntro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:160px 0 80px;}
+#pageintro{padding:80px 0 40px;}
 
 #pageintro .services article{margin:0;}
 #pageintro .services .heading{font-size:16px; text-transform:uppercase;}
@@ -71,7 +71,7 @@ File: Layout CSS
 #comments input, #comments textarea{width:100%; padding:10px; border:1px solid;}
 #comments textarea{overflow:auto;}
 #comments div{margin-bottom:15px;}
-#comments input[type="submit"], #comments input[type="reset"]{display:inline-block; width:auto; min-width:150px; margin:0; padding:8px 5px; cursor:pointer;}
+#comments input[type="submit"], #comments input[type="reset"]{display:inline-block; text-align: center; width:auto; background-color: #9D4700; min-width:150px; margin:10; padding:8px 5px; cursor:pointer;}
 
 /* Sidebar */
 .container .sidebar{}
@@ -84,7 +84,7 @@ File: Layout CSS
 --------------------------------------------------------------------------------------------------------------- */
 #info{padding:80px 0;}
 
-#info .services article{margin-bottom:35px; border:1px solid;}
+#info .services article{margin-bottom:15px; border:1px solid;}
 
 
 /* Footer
