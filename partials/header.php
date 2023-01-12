@@ -27,12 +27,12 @@
                 <ul>
                     <li><a href="about.php">О нас</a></li>
                     <li><a href="ouractivity.php">Наша деятельность</a></li>
-                    <li><a href="#">Преимущества ССК</a></li>
-                    <li><a href="#">Президент ОЮЛ ССК</a></li>
+                    <li><a href="advantages.php">Преимущества ССК</a></li>
+                    <li><a href="president.php">Президент ОЮЛ ССК</a></li>
                     <li><a href="ourteam.php">Наша команда</a></li>
                 </ul>
             </li> 
-            <li><a href="#">Вступить в союз</a></li>
+            <li><a href="joinus.php">Вступить в союз</a></li>
             <li><a href="demonewslist.php">Новости</a></li>
             <li><a href="contacts.php">Контакты</a></li>
             </ul>
@@ -40,11 +40,13 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/fullback.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back2.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
             <a href="index.php"><img src="../images/demo/logo/logoqso.png" alt="" width="300"></a>
+            <div class="center"> <button type="submit" class="form-btn"><a href="joinus.php">Вступить к нам<a></button> </div>
+
                 <!-- <p class="xl nospace capitalise">слоган</p> -->
             </div>
             

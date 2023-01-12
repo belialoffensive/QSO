@@ -18,20 +18,20 @@
             <ul class="nospace group services">
                 <li>
                     <article class="overlay1"><i class="fa fa-check-square"></i>
-                        <h6 class="heading" align="left">Создание условий для роста количества крупных компаний
+                        <h6 class="heading" align="justify">Создание условий для роста количества крупных компаний
                             физкультурно-спортивной
                             индустрии в Казахстане;</h6>
                     </article>
                 </li>
                 <li>
                     <article class="overlay1"><i class="fa fa-check-square"></i>
-                        <h6 class="heading" align="left">Разработка стандартов и требований к физкультурно-спортивной
+                        <h6 class="heading" align="justify">Разработка стандартов и требований к физкультурно-спортивной
                             индустрии;</h6>
                     </article>
                 </li>
                 <li>
                     <article class="overlay1"><i class="fa fa-check-square"></i>
-                        <h6 class="heading" align="left">Создание механизма саморегулирования деятельности компаний,
+                        <h6 class="heading" align="justify">Создание механизма саморегулирования деятельности компаний,
                             занимающихся развитием и
                             улучшениием спортивной инфраструктуры в Казахстане, на основе соблюдения
                             законодательства, этических норм QSO и лучших мировых практик;</h6>
@@ -39,7 +39,7 @@
                 </li>
                 <li>
                     <article class="overlay1"><i class="fa fa-check-square"></i>
-                        <h6 class="heading" align="left">Укрепление связей с международными организациями,
+                        <h6 class="heading" align="justify">Укрепление связей с международными организациями,
                             казахстанскими общественными
                             объединениями, а также государственными органами.</h6>
                     </article>

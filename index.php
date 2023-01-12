@@ -5,6 +5,9 @@
     <title>Qazaqstan Sport Odagy</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Google Fonts
+            ======================================================================== -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600|Roboto:100,100i,300,300i,400,400i,500,700&amp;subset=cyrillic" rel="stylesheet"> -->
     <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
