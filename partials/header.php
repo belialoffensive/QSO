@@ -12,7 +12,6 @@
                 <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a class="faicon-instagram" href="#"><i class="fa fa-instagram"></i></a></li>
                 <li><a class="faicon-whatsapp" href="#"><i class="fa fa-whatsapp"></i></a></li>
-                <li><a class="faicon-send" href="#"><i class="fa fa-send"></i></a></li>
             </ul>
         </div>
     </div>
@@ -26,14 +25,16 @@
                 <li class="active"><a href="index.php">Главная</a></li>
                 <li><a class="drop" href="#">О союзе</a>
                 <ul>
-                    <li><a href="about.php">Кто мы такие</a></li>
+                    <li><a href="about.php">О нас</a></li>
                     <li><a href="ouractivity.php">Наша деятельность</a></li>
+                    <li><a href="#">Преимущества ССК</a></li>
+                    <li><a href="#">Президент ОЮЛ ССК</a></li>
                     <li><a href="ourteam.php">Наша команда</a></li>
                 </ul>
             </li> 
-            <li><a href="services.php">Услуги</a></li>
-                <li><a href="demonewslist.php">Новости</a></li>
-                <li><a href="contacts.php">Контакты</a></li>
+            <li><a href="#">Вступить в союз</a></li>
+            <li><a href="demonewslist.php">Новости</a></li>
+            <li><a href="contacts.php">Контакты</a></li>
             </ul>
         </nav>
     </header>
@@ -44,31 +45,9 @@
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
             <a href="index.php"><img src="../images/demo/logo/logoqso.png" alt="" width="300"></a>
-                <p class="xl nospace capitalise">слоган</p>
+                <!-- <p class="xl nospace capitalise">слоган</p> -->
             </div>
-            <!-- <ul class="nospace group services">
-                <li class="one_third first">
-                    <article class="overlay"><a href="about-ru.php"><i class="fa fa-legal"></i></a>
-                        <h6 class="heading" align = "center">Автоматизация бизнес-процессов</h6>
-                        <p align = "justify">Экологичные экономичные решения для Вашего бизнеса</p>
-                        <footer><a href="about-ru.php">Читать далее &raquo;</a></footer>
-                    </article>
-                </li>
-                <li class="one_third">
-                    <article class="overlay"><a href="#"><i class="fa fa-line-chart"></i></a>
-                        <h6 class="heading" align = "center">Международные центры компетенций</h6>
-                        <p align = "justify">lorem ipsum&hellip;</p>
-                        <footer><a href="#">Читать далее &raquo;</a></footer>
-                    </article>
-                </li>
-                <li class="one_third">
-                    <article class="overlay"><a href="transtech-ru.php"><i class="fa fa-archive"></i></a>
-                        <h6 class="heading" align = "center">Трансферт технологий</h6>
-                        <p align = "justify">Международный альянс Центров Передового опыта в области зеленых технологий&hellip;</p>
-                        <footer><a href="transtech-ru.php">Читать далее &raquo;</a></footer>
-                    </article>
-                </li>
-            </ul>  -->
+            
         </section>
     </div>
 </div>

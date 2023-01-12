@@ -12,6 +12,28 @@
     <?php include('./partials/header.php'); ?>
     <div class="wrapper row3">
         <main class="container clear">
+                    <figure>
+                        <header class="heading" align="center">НАШИ ЦЕЛИ
+                        </header>
+                        <ul class="nospace group services">
+                <li class="one_half first">
+                    <article class="overlay"><a href="#"><i class="fa fa-line-chart"></i></a>
+                        <p align = "justify">Повышение качества жизни населения через устойчивое развитие спортивной инфраструктуры</p>
+                    </article>
+                </li>
+                <li class="one_half">
+                    <article class="overlay"><a href="#"><i class="fa fa-desktop"></i></a>
+                        <p align = "justify">Цифровизация спортивной отрасли<b></p>
+                        <!-- <footer><a href="#">Читать далее &raquo;</a></footer> -->
+                    </article>
+                </li></ul>
+                    </figure>
+            <!-- main body -->
+        </main>
+    </div>
+    
+    <div class="wrapper row3">
+        <main class="container clear">
             <div class="content">
                 <!-- ################################################################################################ -->
                 <div id="gallery">
