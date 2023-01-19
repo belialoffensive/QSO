@@ -58,10 +58,10 @@
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
                 
-            <a href="index.php"><img src="../images/demo/logo/qso2.png" alt="" width="300"></a>
+            <a href="../index.php"><img src="../images/demo/logo/qso2.png" alt="" width="300"></a>
             <br><br>
             <div class="center">
-                <button type="submit" class="orange"><a href="joinus.php">Вступить к нам<a></button>
+                <button type="submit" class="orange"><a href="../joinus.php">Вступить к нам<a></button>
             </div>
         </div>
     </section>
