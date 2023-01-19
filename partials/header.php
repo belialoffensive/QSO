@@ -53,7 +53,7 @@
     </header>
 </div>
 
-<div class="wrapper row2 bgded" style="background-image:url('images/demo/backgrounds/back2.jpg');">
+<div class="wrapper row2 bgded" style="background-image:url('../images/demo/backgrounds/back2.jpg');">
     <div class="overlay">
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
