@@ -66,6 +66,35 @@
         </main>
     </div>
 
+    <div class="slider">
+        <div class="slide-track">
+            <div class="slide">
+			<a href="./partners/asau.php"><img src="../images/demo/partners/asau.jpg" height="100" width="250" alt="" /></a>
+		</div>
+        <div class="slide">
+            <a href="./partners/archiva.php"><img src="../images/demo/partners/arhiva.jpg" height="100" width="250" alt="" /></a>
+		</div>
+        <div class="slide">
+			<a href="./partners/em.php"><img src="../images/demo/partners/ecomeken.png" height="100" width="250" alt="" /></a>
+		</div>
+		<div class="slide">
+            <a href="./partners/icourt.php"><img src="../images/demo/partners/icourt.png" height="100" width="250" alt="" /></a>
+		</div>
+        <div class="slide">
+			<a href="./partners/ipm.php"><img src="../images/demo/partners/ipm.png" height="100" width="250" alt="" /></a>
+		</div>
+        <div class="slide">
+			<a href="./partners/ps.php"><img src="../images/demo/partners/projectsport.jpg" height="100" width="250" alt="" /></a>
+		</div>
+		<div class="slide">
+            <a href="./partners/sa.php"><img src="../images/demo/partners/sportalliance.jpg" height="100" width="250" alt="" /></a>
+		</div>
+        <div class="slide">
+			<a href="./partners/#"><img src="../images/demo/partners/sulunur.jpg" height="100" width="250" alt="" /></a>
+		</div>
+    </div>
+</div>
+
     <?php include('./partials/footer.php'); ?>
 
     <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>

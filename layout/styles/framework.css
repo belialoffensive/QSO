@@ -22,7 +22,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .inline *{display:inline-block;}
 .inline *:last-child{margin-right:0;}
 .borderedbox{border:1px solid;}
-.bgded{background-position:top center; background-repeat:no-repeat; background-size:cover;}
+.bgded{background-position:top center; background-repeat:no-repeat; background-size:contain;}
 .overlay{display:block; width:100%; height:auto;}
 .capitalise{text-transform:capitalize;}
 

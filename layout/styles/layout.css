@@ -11,6 +11,9 @@ File: Layout CSS
 @import url("fontawesome-4.3.0.min.css");
 @import url("framework.css");
 
+
+
+
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row0{border-bottom:1px solid;}
@@ -232,17 +235,66 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#000; background-color:#2e2e2e63;}
+body{color:#000; background-color:#2e2e2e63;
+	align-items: center;
+	background: #e3e3e3;
+	height: 100vh;
+	justify-content: center;}
 a{color:#000;}
 hr, .borderedbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 
+@keyframes scroll {
+	0% {
+		transform: translateX(0);
+   }
+	100% {
+		transform: translateX(calc(-250px * 7));
+   }
+}
+.slider {
+	/* background: white;
+	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125);
+	height: auto;
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 960px; */
+}
+.slider::before, .slider::after {
+	background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+	content: "";
+	height: 150px;
+	position: absolute;
+	width: 200px;
+	z-index: 2;
+}
+.slider::after {
+	right: 0;
+	top: 0;
+	transform: rotateZ(180deg);
+}
+.slider::before {
+	left: 0;
+	top: 0;
+}
+.slider .slide-track {
+	animation: scroll 20s linear infinite;
+	display: flex;
+	width: calc(250px * 14);
+}
+.slider .slide {
+	height: 150;
+	width: 250px;
+	display: block;
+    margin:auto
+}
 
 /* Rows */
 .row0, .row0 a{color:#000; background-color:#FFFFFF;}
 .row0{border-color:#D7D7D7;}
 .row1, .row1 a{color:#000; background-color:#FFFFFF;}
-.row2{color:#FFFFFF; background-color:#1616165e;}
+.row2{color:#FFFFFF; }
 .row3{color:#000; background-color:#FFFFFF;}
 .row3 a{color:#EE6D00;}/* Darker Orange */
 .row4{color:#FFFFFF; background-color:#EE6D00;}
