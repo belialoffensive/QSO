@@ -87,7 +87,7 @@
 			<a href="./partners/ps.php"><img src="../images/demo/partners/projectsport.jpg" height="100" width="250" alt="" /></a>
 		</div>
 		<div class="slide">
-            <a href="./partners/sa.php"><img src="../images/demo/partners/sportalliance.jpg" height="100" width="250" alt="" /></a>
+            <a href="./partners/sa.php"><img src="../images/demo/partners/sportalliance.png" height="100" width="250" alt="" /></a>
 		</div>
         <div class="slide">
 			<a href="./partners/#"><img src="../images/demo/partners/sulunur.jpg" height="100" width="250" alt="" /></a>

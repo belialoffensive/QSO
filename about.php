@@ -12,13 +12,13 @@
     <?php include('./partials/header.php'); ?>
     <div class="wrapper row3">
         <main class="container clear">
-        <div class="center btmspace-80">
-                <h1 class="heading uppercase btmspace-30">О нас</h1>
-                <h2 align="center">ОЮЛ «Qazaqstan Sport Odagy» - профессиональный союз предпринимателей спортивной индустрии, объединённых общими целями и принципами.</h2>
+            <div class="orange">
+                <h1 align="center">О нас</h1>
+                <p class="orange">ОЮЛ «Qazaqstan Sport Odagy» - профессиональный союз предпринимателей спортивной индустрии, объединённых общими целями и принципами.</p>
             </div>
-            <div class="center btmspace-80">
-                <h1 class="heading uppercase btmspace-30">Наша цель</h1>
-                <h2 align="center">Повышение качества жизни населения через реализацию мероприятий по развитию массового спорта и обеспечению устойчивого развития спортвиной инфраструктуры в Казахстане.</h2>
+            <div class="orange">
+                <h1 align="center">Наша цель</h1>
+                <p>Повышение качества жизни населения через реализацию мероприятий по развитию массового спорта и обеспечению устойчивого развития спортвиной инфраструктуры в Казахстане.</p>
             </div>
             <div class="clear"></div>
         </main>

@@ -2,6 +2,7 @@
     <div id="topbar" class="clear">
         <div class="fl_left">
             <ul class="nospace inline">
+            
                 <li><i class="fa fa-phone"></i><a href="tel:+77789172546"> +7 778 917 25 46</a></li>
                 <li><i class="fa fa-phone"></i><a href="tel:+77479134405"> +7 747 913 44 05</a></li>
                 <li><i class="fa fa-envelope-o"></i><a href="mailto:info@qso.kz">info@qso.kz</a></li>
@@ -32,7 +33,7 @@
   </style>
 <div class="wrapper row1">
     <header id="header" class="clear">
-        <div id="logo" class="fl_left"></div>
+        <div id="logo" class="fl_left"><a href="index.php"><img src="../images/demo/logo/minilogo.png" alt="" width="300"></a></div>
         <nav id="mainav" class="fl_right">
             <ul class="clear">
                 <li class="active"><a href="../index.php">Главная</a></li>
@@ -58,10 +59,10 @@
         <section id="pageintro" class="clear">
             <div class="center btmspace-80">
                 
-            <a href="../index.php"><img src="../images/demo/logo/qso2.png" alt="" width="300"></a>
+            <a href="index.php"><img src="../images/demo/logo/qso2.png" alt="" width="300"></a>
             <br><br>
             <div class="center">
-                <button type="submit" class="orange"><a href="../joinus.php">Вступить к нам<a></button>
+                <button type="submit" class="orange"><a href="/joinus.php">Вступить к нам<a></button>
             </div>
         </div>
     </section>

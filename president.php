@@ -15,7 +15,7 @@
         <div class="content">
         <img class="imgl borderedbox inspace-5" src="../images/demo/ea.jpg" alt="">
         <h1 align="center">ЖАНГУЛОВ ЕРЛАН АСПАНДИЯРОВИЧ</h1>
-      <p>резюме ЕА</p>
+      <p>Академик МАИН</p>
             </div>
             
             <div class="clear"></div>
