@@ -13,7 +13,7 @@
     <div class="wrapper row3">
         <main class="container clear">
         <div class="content">
-        <img class="imgl borderedbox inspace-5" src="../images/demo/partners/arhiva.jpg" alt="">
+        <img class="imgl borderedbox inspace-5" src="../images/demo/partners/arhiva.svg" alt="">
         <h1 align="center">ArhiVA Architects</h1>
       <p align="center">ТОО "ArhiVA Architects", разрабатывает проекты любой сложности. Проектирование, Дизайн интерьера, Общественный дизайн, Рабочий проект. Экспертиза проектов, техническое обследование зданий и конструкций.</p>
             </div>

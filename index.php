@@ -72,7 +72,7 @@
 			<a href="./partners/asau.php"><img src="../images/demo/partners/asau.jpg" height="100" width="250" alt="" /></a>
 		</div>
         <div class="slide">
-            <a href="./partners/archiva.php"><img src="../images/demo/partners/arhiva.jpg" height="100" width="250" alt="" /></a>
+            <a href="./partners/archiva.php"><img src="../images/demo/partners/arhiva.svg" height="100" width="250" alt="" /></a>
 		</div>
         <div class="slide">
 			<a href="./partners/em.php"><img src="../images/demo/partners/ecomeken.png" height="100" width="250" alt="" /></a>
